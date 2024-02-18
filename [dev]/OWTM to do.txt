@@ -6,4 +6,5 @@ OWTM to do
 - finish new shotgun 4DS/6DS shadows
 - finish new shotgun anims
 - add other four coins + their lighting
-- playtest
+- playtest again
+- move player out of reach/view
