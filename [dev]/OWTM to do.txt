@@ -3,7 +3,7 @@ OWTM to do
 
 - finish sfx
 - finish collisions
-- finish new shotgun anims
+- tweak shotgun anims
 - add other four coins + their lighting
 - playtest again
 - move player out of reach/view before map goes live
