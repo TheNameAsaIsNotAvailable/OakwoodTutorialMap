@@ -11,9 +11,7 @@ Last Rites
 „Letzte Ölung“
 
 FINALISED(?):
-- "The Last Rites" [EN]
+- "Last Rites" [EN]
 - ,,Poslední obřady" [CZ]
 - «Последний обряд» [RU]
 - „Letzte Ölung“ [DE]
-
-«Последний обряд»
