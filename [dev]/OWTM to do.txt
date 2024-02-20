@@ -3,7 +3,8 @@ OWTM to do
 
 - finish sfx
 - finish collisions
-- tweak shotgun anims (i.e. elbow angle + attribute keyframe position, to accommodate adjusted foregrip + 'bolt-action' reload)
+- tweak shotgun anims (elbow angle + attribute keyframe position, to accommodate adjusted foregrip + 'bolt-action' reload)
+- tweak shotgun sound(s?)
 - add other four coins + their lighting
 - playtest again
-- move player out of reach/view before map goes live
+- move player object out of reach/view
