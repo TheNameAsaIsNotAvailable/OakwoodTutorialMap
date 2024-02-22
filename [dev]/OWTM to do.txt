@@ -4,8 +4,6 @@ OWTM to do
 - finish sfx placement
 - add ambient sound for 'sector UGbox3'?
 - finalise collisions
-- finish tweaking shotgun sounds
-- finalise shotgun 'predmety.def' entry
 - add other four coins + their lighting
 - playtest again
 - move player object out of reach/view
