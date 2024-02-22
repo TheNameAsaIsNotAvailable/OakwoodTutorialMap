@@ -1,6 +1,5 @@
 OWTM to do
 -----------
 
-- finalise collisions
 - playtest again
 - move player object out of reach/view
