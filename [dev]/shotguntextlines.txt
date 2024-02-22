@@ -1,9 +1,0 @@
-[552] 3311 Pump-action shotgun
-[583] 3411 Pump-action shotgun collected
-[643] 3511 Pump-action shotgun
-
-FINALISED(?):
-- "Last Rites" [EN]
-- „Poslední obřady“ [CZ]
-- «Последний обряд» [RU]
-- „Letzte Ölung“ [DE]
