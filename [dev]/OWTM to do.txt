@@ -1,5 +1,0 @@
-OWTM to do
------------
-
-- playtest again
-- move player object out of reach/view
